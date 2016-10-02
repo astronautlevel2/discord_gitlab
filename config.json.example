@@ -1,0 +1,5 @@
+{
+    "token"     : "token to be used for bot accounts",
+    "channel_id": "Channel ID for the bot to post updates to",
+    "port"      : port for the bot to listen on
+}
